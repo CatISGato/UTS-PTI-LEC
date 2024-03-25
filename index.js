@@ -1,6 +1,9 @@
 var data = [
-  { nim: "00000104848", nama: "Denito Fransiskus Triarta Samosir", buku: "Cara Tidur selama 20 Jam" },
+  { nim: "123456", nama: "Denito Fransiskus Triarta Samosir", buku: "Cara Tidur selama 20 Jam" },
+  { nim: "123456", nama: "Steve Leopold", buku: "Cara makan selama 20 Jam" },
+  { nim: "123455", nama: "Aditya Akbar", buku: "Cara minum selama 20 Jam" },
 ];
+
 
 function displayData() {
   var table = document.getElementById("data-table");
